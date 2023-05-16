@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="137" viewBox="0 0 1920 137">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Retângulo_216" data-name="Retângulo 216" width="1920" height="137" transform="translate(0 5218)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_9" data-name="Grupo de máscara 9" transform="translate(0 -5218)" clip-path="url(#clip-path)">
+    <g id="beneficios">
+      <path id="Caminho_1762" data-name="Caminho 1762" d="M0,0S419.141,48.648,959.383,0,1920,0,1920,0V1550H0Z" transform="translate(0 5239.355)" fill="#fff"/>
+      <g id="botão" transform="translate(-198 6190.355)">
+        <rect id="Retângulo_69" data-name="Retângulo 69" width="920" height="80" rx="40" transform="translate(698 414)" fill="#dc064c"/>
+      </g>
+      <text id="Assista_uma_amostra_grátis" data-name="Assista uma amostra grátis" transform="translate(960 6705.355)" fill="#dc064c" font-size="12" font-family="SegoeUI, Segoe UI" text-decoration="underline"><tspan x="-70.752" y="0">Assista uma amostra grátis</tspan></text>
+      <g id="filho" transform="translate(0 1074.911)">
+        <g id="contextualização" transform="translate(0 815)">
+          <rect id="Retângulo_80" data-name="Retângulo 80" width="660" height="179" rx="20" transform="translate(285 3519)" fill="#d300d8"/>
+        </g>
+        <g id="contextualização-2" data-name="contextualização" transform="translate(690 1000)">
+          <rect id="Retângulo_80-2" data-name="Retângulo 80" width="660" height="155" rx="20" transform="translate(285 3519)" fill="#d300d8"/>
+        </g>
+        <g id="contextualização-3" data-name="contextualização" transform="translate(0 1024)">
+          <rect id="Retângulo_80-3" data-name="Retângulo 80" width="660" height="131" rx="20" transform="translate(285 3519)" fill="#7fb221"/>
+        </g>
+        <g id="contextualização-4" data-name="contextualização" transform="translate(690 815)">
+          <rect id="Retângulo_80-4" data-name="Retângulo 80" width="660" height="155" rx="20" transform="translate(285 3519)" fill="#01a1f6"/>
+        </g>
+        <g id="contextualização-5" data-name="contextualização" transform="translate(0 1346.444)">
+          <rect id="Retângulo_80-5" data-name="Retângulo 80" width="660" height="131" rx="20" transform="translate(285 3519)" fill="#d300d8"/>
+        </g>
+        <g id="contextualização-6" data-name="contextualização" transform="translate(690 1185)">
+          <rect id="Retângulo_80-6" data-name="Retângulo 80" width="660" height="107" rx="20" transform="translate(285 3519)" fill="#7fb221"/>
+        </g>
+        <g id="contextualização-7" data-name="contextualização" transform="translate(0 1185.444)">
+          <rect id="Retângulo_80-7" data-name="Retângulo 80" width="660" height="131" rx="20" transform="translate(285 3519)" fill="#01a1f6"/>
+        </g>
+        <g id="contextualização-8" data-name="contextualização" transform="translate(690 1322)">
+          <rect id="Retângulo_80-8" data-name="Retângulo 80" width="660" height="155" rx="20" transform="translate(285 3519)" fill="#01a1f6"/>
+        </g>
+      </g>
+      <g id="pais" transform="translate(0 1918.355)">
+        <g id="contextualização-9" data-name="contextualização" transform="translate(0 815)">
+          <rect id="Retângulo_80-9" data-name="Retângulo 80" width="660" height="131" rx="20" transform="translate(285 3519)" fill="#7fb221"/>
+        </g>
+        <g id="contextualização-10" data-name="contextualização" transform="translate(690 815)">
+          <rect id="Retângulo_80-10" data-name="Retângulo 80" width="660" height="131" rx="20" transform="translate(285 3519)" fill="#d300d8"/>
+        </g>
+        <g id="contextualização-11" data-name="contextualização" transform="translate(0 976)">
+          <rect id="Retângulo_80-11" data-name="Retângulo 80" width="660" height="131" rx="20" transform="translate(285 3519)" fill="#01a1f6"/>
+        </g>
+        <g id="contextualização-12" data-name="contextualização" transform="translate(690 976)">
+          <rect id="Retângulo_80-12" data-name="Retângulo 80" width="660" height="107" rx="20" transform="translate(285 3519)" fill="#7fb221"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
